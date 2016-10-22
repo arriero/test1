@@ -12,6 +12,9 @@
 
 @property (strong, nonatomic) NSDate *detailItem;
 @property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
+@property (strong, nonatomic) NSDate *detailIte;
+
+//test
 
 @end
 
